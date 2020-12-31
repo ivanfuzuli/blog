@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": { "plaintext": "javascript" }
+}
